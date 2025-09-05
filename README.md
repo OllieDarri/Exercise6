@@ -1,7 +1,7 @@
 #Our beautiful contributors:
-\n
+n\
 Oliver Darri
-\n
+n\
 Kári Árnason
-\n
+n\
 Þorvaldur Þorvaldson
